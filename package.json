@@ -1,0 +1,30 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0",
+  "description": "A simple to do app made with reactjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smolvera/To-Do-App.git"
+  },
+  "keywords": [
+    "React",
+    "Nodejs",
+    "Materialize"
+  ],
+  "author": "Samantha Olvera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smolvera/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/smolvera/To-Do-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "mongoose": "^5.6.10"
+  }
+}
